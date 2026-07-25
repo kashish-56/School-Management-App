@@ -4,7 +4,7 @@ import StudentList from './features/StudentList';
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-slate-50 py-10 px-4 sm:px-6 lg:px-8 font-sans text-slate-900">
+    <div className="min-h-screen bg-slate-50 py-5 px-4 sm:px-6 lg:px-8 font-sans text-slate-900">
       <div className="mx-auto max-w-4xl">
         
         <header className="mb-8 text-center">
