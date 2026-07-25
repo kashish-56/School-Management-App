@@ -36,59 +36,68 @@ src/
 ├── components/
 │   └── Students.jsx          # Individual Table Row Component
 ├── App.jsx                   # Main layout container
-└── main.jsx                  # Entry point with Redux <Provider>
----
+└── main.jsx                  # Entry point with Redux Provider
 ```
 
-💻 How to Clone and Run Locally
+---
+
+## 💻 How to Clone and Run Locally
+
 Follow these quick steps to get the project running on your local machine:
 
-1. Prerequisites
-Make sure you have Node.js (v16 or higher) and Git installed.
+### 1. Prerequisites
+Make sure you have **Node.js** (v16 or higher) and **Git** installed.
 
-2. Clone the Repository
-Terminal / Command Prompt:
-  ``` bash
-  git clone [https://github.com/kashish-56/Student-Management-System.git](https://github.com/kashish-56/Student-Management-System.git)
-  ```
-3. Navigate to Project Folder
-  ``` bash
-  cd Student-Management-System
-  ```
-4. Install Dependencies
-   ``` bash
-   npm install
-   ```
-5. Run Development Server
-   ``` bash
-   npm run dev ```
-Open your browser and navigate to http://localhost:5173! 🎉
+### 2. Clone the Repository
+Terminal / Command Prompt me ye command chalao:
+```bash
+git clone [https://github.com/kashish-56/Student-Management-System.git](https://github.com/kashish-56/Student-Management-System.git)
+```
+
+### 3. Navigate to Project Folder
+```bash
+cd Student-Management-System
+```
+
+### 4. Install Dependencies
+```bash
+npm install
+```
+
+### 5. Run Development Server
+```bash
+npm run dev
+```
+
+Open your browser and navigate to `http://localhost:5173`! 🎉
+
 ---
-🤝 Contributing
+
+## 🤝 Contributing
+
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-Fork the Project
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
+---
 
-Commit your Changes (git commit -m 'Add some AmazingFeature')
+## 👩‍💻 Author
 
-Push to the Branch (git push origin feature/AmazingFeature)
+Built with ❤️ and curiosity by **Kashish Kumari** 🚀  
+*Computer Science & Engineering Student*
 
-Open a Pull Request
+> *"Building clean UI and managing seamless logic, one component at a time. Always learning, constantly shipping code!"*
 
-👩‍💻 Author
-Built with ❤️ and curiosity by Kashish Kumari 🚀
+📬 **Let's Connect!**
+- 🐙 **GitHub:** [kashish-56](https://github.com/kashish-56)
+- 💼 **LinkedIn:** [Kashish Kumari](https://www.linkedin.com/in/kashish-kumari-051936327/)
 
-Computer Science & Engineering Student
+---
 
-"Building clean UI and managing seamless logic, one component at a time. Always learning, constantly shipping code!"
+## 📄 License
 
-📬 Let's Connect!
-
-🐙 GitHub: kashish-56
-
-💼 LinkedIn: Kashish Kumari
-
-📄 License
-Distributed under the MIT License. Feel free to use and modify for learning and project work.
+Distributed under the **MIT License**. Feel free to use and modify for learning and project work.
